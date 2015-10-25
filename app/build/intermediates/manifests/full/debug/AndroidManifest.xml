@@ -36,6 +36,10 @@
             android:name="com.example.hotspotz.main.CategoryNavigatorActivity"
             android:label="@string/title_activity_catagory_navigator" >
         </activity>
+        <activity
+            android:name="com.example.hotspotz.category.CategoryActivity"
+            android:label="@string/title_activity_category" >
+        </activity>
     </application>
 
 </manifest>

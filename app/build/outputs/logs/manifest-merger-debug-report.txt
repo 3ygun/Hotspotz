@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:2:1-41:12
+ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:2:1-45:12
 	xmlns:android
 		ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:2:11-69
 	package
@@ -42,7 +42,7 @@ ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidMan
 	android:name
 		ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:15:30-85
 application
-ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:17:5-39:19
+ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:17:5-43:19
 	android:label
 		ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:20:9-41
 	android:allowBackup
@@ -79,3 +79,9 @@ ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidMan
 		ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:37:13-70
 	android:name
 		ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:36:13-59
+activity#com.example.hotspotz.category.CategoryActivity
+ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:41:13-60
+	android:name
+		ADDED from C:\Users\David\AndroidStudioProjects\hotspotz\app\src\main\AndroidManifest.xml:40:13-54

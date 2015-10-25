@@ -13,6 +13,7 @@
     <string name="menu_refresh">Refresh</string>
     <string name="mobile_services">Mobile Services </string>
     <string name="title_activity_catagory_navigator">CatagoryNavigator</string>
+    <string name="title_activity_category">CategoryActivity</string>
     <string name="title_activity_splash">SplashActivity</string>
     <!-- From: file:/C:/Users/David/AndroidStudioProjects/hotspotz/app/src/main/res/values/styles.xml -->
     <eat-comment/>

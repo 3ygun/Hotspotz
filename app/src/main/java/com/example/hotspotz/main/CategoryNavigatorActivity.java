@@ -4,10 +4,10 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.View;
-import android.widget.Button;
 import android.widget.ImageButton;
 
 import com.example.hotspotz.R;
+import com.example.hotspotz.category.CategoryActivity;
 import com.example.hotspotz.todo.ToDoActivity;
 
 public class CategoryNavigatorActivity extends Activity implements View.OnClickListener{
@@ -31,7 +31,7 @@ public class CategoryNavigatorActivity extends Activity implements View.OnClickL
         switch(view.getId()){
             case(R.id.imageButton1):
                 intent = new Intent(this, SplashActivity.class);
-                intent.putExtra("category", )
+                intent.putExtra("category", CategoryActivity.Category.graffiti);
                 startActivity(intent);
                 break;
             case(R.id.imageButton2):
